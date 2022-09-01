@@ -1,1 +1,1 @@
-display file in long format and hidden folders
+show all hidden file ,folder and content
